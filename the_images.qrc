@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/sub_images">
+  <file alias="my-Image.jpg">assets/sub_images/my-Image.jpg</file>
+  <file alias="my-image.jpg">assets/sub_images/my-image.jpg</file>
+</qresource>
+</RCC>
